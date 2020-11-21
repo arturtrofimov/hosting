@@ -312,9 +312,7 @@ a.btn-hap, a.btn-hap:hover, a.btn-hap:active, .a.btn-hap:visited {
 .heading-image {
 
 }
-.yellow{
-    background: yellow;
-}
+
 .bad-news, .question-block.hidden {
     display: none;
 }
